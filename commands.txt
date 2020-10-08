@@ -2,3 +2,4 @@ git clone <HTTPS> (repo name)
 git add file.txt
 git commit -m "Message"
 git status
+git tag
