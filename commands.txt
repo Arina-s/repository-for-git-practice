@@ -5,3 +5,5 @@ git status
 git tag
 git show name_tag
 gitk
+gitk&
+git log
