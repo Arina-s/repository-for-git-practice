@@ -5,6 +5,5 @@ git status
 git tag
 git show name_tag
 gitk
-This is not a command!
 gitk&
 git log
