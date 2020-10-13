@@ -6,3 +6,8 @@ git tag
 git show name_tag
 gitk
 git pull
+This is not a command!
+gitk&
+git log
+git checkout -b new_branch
+git merge --abort
