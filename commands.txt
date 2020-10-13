@@ -8,3 +8,4 @@ gitk
 This is not a command!
 gitk&
 git log
+git checkout -b new_branch
