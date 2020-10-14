@@ -11,3 +11,4 @@ git log
 git checkout -b new_branch
 git merge --abort
 git cherry-pick
+git stash
