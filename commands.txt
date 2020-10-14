@@ -5,3 +5,10 @@ git status
 git tag
 git show name_tag
 gitk
+This is not a command!
+gitk&
+git log
+git checkout -b new_branch
+git merge --abort
+git cherry-pick
+git stash
